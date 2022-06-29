@@ -1,0 +1,55 @@
+.donnee {
+  width: 400px;
+  height: 600px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #c1e3ff;
+  position: absolute;
+  border-radius: 3%;
+  align-items: center;
+}
+.row2 {
+  background-color: #153f65 !important;
+  height: fit-content;
+  height: 100vh;
+  position: relative;
+  width: 100%;
+}
+.modifierChamps {
+  background-color: #70bdf2;
+  width: 30%;
+  margin-right: 5px;
+  height: 40px;
+}
+.champ {
+  display: flex;
+  margin-top: 15px;
+}
+.image {
+  margin-left: 40px;
+  color: #153f65;
+  width: 300px;
+  height: 200px;
+}
+.form2 {
+  height: 40px;
+}
+.btn:hover {
+  background-color: #03131f;
+  color: white;
+  border-bottom: 3px solid white;
+}
+.button {
+  margin-top: 80px;
+}
+@media screen and (max-width: 900px) {
+  .row2 {
+    background-color: #153f65 !important;
+    height: fit-content;
+    height: 100vh;
+    position: relative;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+}

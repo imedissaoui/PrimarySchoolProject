@@ -1,0 +1,252 @@
+/*.page1 {
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+  position: relative;
+}
+
+.table-container2 {
+  display: block;
+
+  gap: 10px;
+  padding: 1rem;
+  margin-top: 100px;
+}
+.table1 {
+  border-collapse: collapse;
+  width: 50%;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+th,
+td {
+  border: 1px solid black;
+ 
+  padding: 5px;
+  font-size: 20px;
+  width: fit-content !important;
+}
+tr {
+  text-align: right;
+}
+
+th {
+  background-color: rgb(117, 201, 250);
+  width: 100px;
+  text-align: center !important;
+  width: fit-content !important;
+}
+
+tbody td {
+  background-color: rgb(205, 235, 253);
+  width: fit-content !important;
+  text-align: center !important;
+}
+
+.add {
+  display: flex;
+  gap: 5px;
+  left: 70%;
+
+  position: relative;
+  transform: translateX(-70%);
+  width: 70%;
+}
+
+.add td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.add * {
+  font-size: 15px;
+}
+.soustitre {
+  text-align: center;
+
+  font-size: 25px;
+  font-family: sans-serif;
+  padding-top: 90px;
+}
+.btn101 {
+  margin-top: 10px;
+  height: 52px;
+  border: #03131f 2px solid;
+  color: black;
+  width: 150px !important;
+  color: white;
+  
+}
+button, input, optgroup, select, textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  width:220px !important;
+}
+.btn101:hover {
+  background-color: #70bdf2;
+
+  box-shadow: 0 0 10px 1px #153f65 !important;
+}
+.header {
+  display: flex;
+}
+.header h1 {
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+}
+.header .btn504 {
+  margin-left: 25px;
+}
+.header .btn504:hover {
+  background-color: #70bdf2;
+}
+.btn99 {
+  width: 80px;
+  height: 50px;
+  margin-top: 17px;
+  
+}
+.table2 tbody tr td,
+.table2 thead tr th {
+  width: fit-content !important;
+}
+.table2 {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+*/
+.matiere {
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+  position: relative;
+}
+
+.matiere .table-container {
+  display: block;
+
+  gap: 10px;
+  padding: 1rem;
+  margin-top: 100px;
+}
+.matiere .table-container .table1 {
+  border-collapse: collapse;
+  width: 50%;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.matiere .table-container .table1 th,
+.matiere .table-container td {
+  border: 1px solid black;
+
+  padding: 8px;
+  font-size: 20px;
+  width: fit-content !important;
+}
+.matiere .table-container tr {
+  text-align: right;
+}
+
+.matiere .table-container th {
+  background-color: rgb(117, 201, 250);
+  width: 100px;
+  text-align: center !important;
+  width: fit-content !important;
+}
+
+.matiere .table-container .table1 tbody td {
+  background-color: rgb(205, 235, 253);
+  width: fit-content !important;
+  text-align: center !important;
+}
+
+.add {
+  display: flex;
+  gap: 5px;
+  left: 45%;
+
+  position: relative;
+  transform: translateX(-45%);
+  width: 50%;
+}
+
+.matiere .add td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.matiere .add * {
+  font-size: 15px;
+}
+.soustitre {
+  text-align: center;
+
+  font-size: 25px;
+  font-family: sans-serif;
+  padding-top: 90px;
+}
+.btn101 {
+  margin-top: 10px;
+  height: 52px;
+  border: #03131f 2px solid;
+  color: black;
+
+  color: white;
+  margin-right: 120px !important;
+}
+.btn101:hover {
+  background-color: #70bdf2;
+
+  box-shadow: 0 0 10px 1px #153f65 !important;
+}
+.header {
+  display: flex;
+}
+.header h1 {
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+}
+.header .btn504 {
+  margin-left: 25px;
+}
+.header .btn504:hover {
+  background-color: #70bdf2;
+}
+.btn99 {
+  width: 80px;
+  height: 50px;
+
+  margin-top: 17px;
+}
+.text1 {
+  height: 52px !important;
+}
+input[type="text"] {
+  width: 180px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+  margin-bottom: 16px;
+  margin-left: 32px;
+  resize: vertical;
+  text-align: end;
+}
+/*.table2 tbody tr td,
+.table2 thead tr th {
+  width: fit-content;
+}
+.table2 {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+*/

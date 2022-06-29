@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "adress": "hamzaabdelbaki@gmail.com",
+      "matiere": "فرنسية",
+      "classe": "أولى 2",
+      "fullName": "حمزة عبدالباقي"
+    },
+    {
+      "id": 2,
+      "adress": "imedissaoui@gmail.com",
+      "matiere": " العربية",
+      "classe": " 4 ثانية",
+      "fullName": "عماد العيساوي"
+    },
+    {
+      "id": 3,
+      "adress": "ahmedhafsi@gmail.com",
+      "matiere": "تاريخ",
+      "classe": "سادسة 2",
+      "fullName": "احمد حفصي"
+    }
+  ]

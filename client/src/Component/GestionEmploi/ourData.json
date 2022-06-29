@@ -1,0 +1,109 @@
+[
+   {
+      "id":"09-10h",
+      "lundi": "algebre",
+      "mardi": "",
+      "mercredi": "math de l ing",
+      "jeudi": "" ,
+      "vendredi":"chimie",
+      "samedi":"maths"
+
+
+   },
+    {
+        "id":"09-10h",
+        "lundi": "algebre",
+        "mardi": "",
+        "mercredi": "math de l ing",
+        "jeudi": "" ,
+        "vendredi":"chimie",
+        "samedi":"maths"
+ 
+ 
+     },
+     {
+         "id":"10-11h",
+        "lundi": "C++",
+        "mardi": "anglais",
+        "mercredi": "orientéobjets",
+        "jeudi": "sport" ,
+        "vendredi":"chimie",
+        "samedi":"maths"
+ 
+ 
+     },
+     {
+         "id":"11-12h",
+        "lundi": "ronaldo",
+        "mardi": "anglais",
+        "mercredi": "orientéobjets",
+        "jeudi": "sport" ,
+        "vendredi":"chimie",
+        "samedi":"maths"
+ 
+ 
+     },
+     { 
+       "id":"12-13h",
+
+        "lundi": "",
+        "mardi": "",
+        "mercredi": "",
+        "jeudi": "" ,
+        "vendredi":"",
+        "samedi":""
+ 
+ 
+     },
+     {  
+
+      "id":"13-14h",
+
+        "lundi": "",
+        "mardi": "Unix",
+        "mercredi": "transmission",
+        "jeudi": "sport" ,
+        "vendredi":"chimie",
+        "samedi":""
+ 
+ 
+     },
+     {
+      "id":"14-15h",
+
+        "lundi": "nanotech",
+        "mardi": "anglais",
+        "mercredi": "orientéobjets",
+        "jeudi": "sport" ,
+        "vendredi":"chimie",
+        "samedi":"maths"
+ 
+ 
+     },
+     {
+      "id":"15-16h",
+
+        "lundi": "",
+        "mardi": "anglais",
+        "mercredi": "orientéobjets",
+        "jeudi": "sport" ,
+        "vendredi":"chimie",
+        "samedi":"maths"
+ 
+ 
+     },
+     {
+      
+        "id":"16-17h",
+
+        "lundi": "analyse",
+        "mardi": "anglais",
+        "mercredi": "orientéobjets",
+        "jeudi": "sport" ,
+        "vendredi":"chimie",
+        "samedi":"maths"
+ 
+ 
+     }
+    
+  ]

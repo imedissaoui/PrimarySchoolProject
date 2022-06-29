@@ -1,0 +1,96 @@
+.gestion
+{
+    width: 100% !important;
+    height: 100vh !important;
+    background-color: black !important  ;
+    color: white !important;
+    
+}
+.col10
+{   
+    margin-left: 350px !important;
+    width: 600px !important;  
+}
+.card10
+{
+    color:#03131f    !important;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 250px !important;
+    height: fit-content !important;
+    word-wrap: break-word;
+     background-color: #fff;
+        background-clip: border-box;
+        border: 1px solid rgba(0,0,0,.125);
+        border-radius: 2rem;
+    left: 37% !important;
+    text-align: right!important;
+    
+}
+.close10
+{
+    color: black !important;
+    margin-top: -10px !important;
+    margin: 4px !important;
+    
+}
+.col12
+{
+    margin-left: 120px !important;
+    margin-bottom: 5px;
+}
+
+.option{
+    margin-left: 800px !important;
+    margin-top: 100px !important;
+    margin-bottom: 30px !important;
+    
+}
+.liste
+{
+    margin-left: 550px !important ;
+    padding: 5px !important;
+    color: white !important;
+    
+}
+
+
+.btn-outline-success {
+    color: #70bdf2    !important;
+    border-color: #70bdf2 !important    ;
+   
+        
+}
+.card-body justify-content-between
+{
+    margin-left:50% !important
+}
+.form-text {
+    margin-top: .25rem;
+    font-size: .875em;
+    color:white !important;
+    margin-left: 450px !important;
+}
+.btn11 {
+    width: 340px !important;
+    height: 50;
+    margin-bottom: 10px !important;
+    margin-left: 325px !important;
+
+}
+.input-group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+}
+.input-group {
+    display: flex;
+    padding: 5px;
+}
+.col-10 {
+    flex: 0 0 auto;
+    width: 83.33333333%;
+}
+

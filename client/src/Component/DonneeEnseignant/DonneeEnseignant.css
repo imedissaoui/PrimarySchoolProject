@@ -1,0 +1,57 @@
+.page3 {
+}
+.icon {
+  width: 20px;
+  height: 20px;
+  font-size: 20px;
+}
+.cadre2 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #70bdf2;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  text-align: end;
+  display: block;
+  border-radius: 15px;
+}
+.pic {
+  margin-right: 170px;
+}
+#MotPasse {
+  text-align: end;
+}
+.modifier {
+  margin: 20px;
+  width: 170px;
+  margin-right: 180px;
+}
+#basic-addon1 {
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
+#usernam,
+#nome,
+#lastname {
+  height: 50px;
+  background-color: white;
+  width: 400px;
+}
+.input {
+  display: flex;
+  margin-top: 5px;
+}
+.input-group {
+  display: block;
+  padding: 5px;
+}
+#MotPasse {
+  height: 50px;
+  margin-top: 10px;
+  width: 400px;
+  margin-left: 38px;
+}

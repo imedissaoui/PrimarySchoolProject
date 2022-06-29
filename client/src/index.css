@@ -1,0 +1,17 @@
+@import url(//db.onlinewebfonts.com/c/6cec834e2e8f2e4206567ed75e1281d4?family=Brandon+Grotesque+Bold);
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "berlin sans fb";
+}
+p {
+  font-family: "Brandon Grotesque Bold";
+}

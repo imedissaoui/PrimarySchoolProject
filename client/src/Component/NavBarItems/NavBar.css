@@ -1,0 +1,25 @@
+* {
+  font-family: "Berlin sans fb";
+}
+.active {
+  background-color: #153f65;
+}
+.navbar-light .navbar-nav .nav-link {
+  width: fit-content;
+}
+.navbar {
+  background-color: #153f65 !important;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  width: 300px !important;
+}

@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "password": "hamzaabdelbaki@gmail.com",
+      "genre": "فرنسية",
+      "login": "أولى 2",
+      "nom": "حمزةي",
+      "prenom":" عبدالباقي"
+    },
+    {
+      "id": 2,
+      "password": "imedissaoui@gmail.com",
+      "genre": " العربية",
+      "login": " 4 ثانية",
+      "nom": " العيساوي",
+      "prenom":"عماد"
+    },
+    {
+      "id": 3,
+      "password": "ahmedhafsi@gmail.com",
+      "genre": "تاريخ",
+      "login": "سادسة 2",
+      "nom": " حفصي",
+      "prenom": "احمد"
+    }
+  ]

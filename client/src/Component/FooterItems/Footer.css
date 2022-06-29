@@ -1,0 +1,24 @@
+.footer {
+  background-color: #03131f;
+  padding: 10px;
+  width: 100%;
+
+  color: white;
+  text-align: center;
+}
+
+.icons {
+  color: white;
+}
+.icons .fa {
+  margin-right: 25px;
+  margin-left: 25px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+}
+.footer .reseau_sociaux h1 {
+  margin-top: 5px;
+  color: white;
+}
